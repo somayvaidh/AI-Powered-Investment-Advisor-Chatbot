@@ -9,7 +9,7 @@ It acts as a personal stock analyst—automating the process of stock research, 
 Tech-Stack
 Data Source	Yahoo Finance (via yfinance)
 News Scraping	Google News via googlesearch using Beautifulsoup
-Sentiment Model	HuggingFace DistilBERT Model
+Sentiment Model	HuggingFace DistilBERT Model (can also take OPENAI API key/ Langchain- Paid)
 Backend	Python
 Interface	Flask or CLI (extendable to Web/Chat)
 Dataset	Nifty 500 Constituents (CSV)
